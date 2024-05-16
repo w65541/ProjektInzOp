@@ -1,0 +1,6 @@
+@ProjektInzOp_HostAddress = http://localhost:5079
+
+GET {{ProjektInzOp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
